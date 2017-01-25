@@ -25,15 +25,6 @@ for x in range(180):
 ben.right(90)
 ben.forward(118)
 input()
-
-
-
-
-
-
-
-
-
-
-
+from Myfile.py import polygon
+polygon(12)
 input()
